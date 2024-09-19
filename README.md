@@ -73,7 +73,8 @@ O relatório gerado será um arquivo HTML que pode ser aberto em qualquer navega
 
 ## Exemplo de Relatório
 
-![Exemplo de Relatório](./report_example.png)
+![Exemplo de Relatório](![image](https://github.com/user-attachments/assets/74a30dee-0cef-47dc-8f44-a298b76076e0)
+)
 
 ## Contribuição
 
